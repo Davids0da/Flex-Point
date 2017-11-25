@@ -1,0 +1,27 @@
+{
+  "name": "Flex Point",
+  "version": "1.0.0",
+  "description": "Flex Point | Website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Davids0da/Flex-Point.git"
+  },
+  "author": "David Milosavljevic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Davids0da/Flex-Point.git"
+  },
+  "homepage": "https://github.com/Davids0da/Flex-Point.git",
+  "dependencies": {
+    "bootstrap": "3.3.7",
+    "express": "4.15.2",
+    "body-parser": "^1.8.1",
+    "jquery": "3.1.1"
+  },
+  "devDependencies": {}
+}
